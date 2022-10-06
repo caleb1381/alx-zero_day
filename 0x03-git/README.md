@@ -1,1 +1,2 @@
-my none empty readme
+learning is going well
+perfector alx
